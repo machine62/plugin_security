@@ -100,4 +100,7 @@ editer ensuite la fonction  processInscription()
 
 ```
 
+## A noter
+Le dossier data doit etre en ecriture, le plgin travail en systeme de fichier (pas de bdd)
+
 
